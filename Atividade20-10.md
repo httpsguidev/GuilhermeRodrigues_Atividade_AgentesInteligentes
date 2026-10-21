@@ -4,7 +4,7 @@
 **Professora:** Kadidja Valéria  
 **Disciplina:** Linguagens Formais e Autômatos — Ciência da Computação  
 **Estudante:** Guilherme R. de Almeida  
-**Turma:** Ciência da Computação — N1 *(confirmar)*
+**Turma:** Ciência da Computação — N1
 
 Atividade individual baseada no Capítulo 2 de *Inteligência Artificial*, de Russell e Norvig, com análise de racionalidade, caracterização PEAS e modelos de agentes.
 
